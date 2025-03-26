@@ -1,4 +1,4 @@
 # testing-repo
 This is a testing repo
 <br/>
-Author - Abdullah Hamid
+Author - Abdullah Hamid (Aptech Faculty)
